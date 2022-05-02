@@ -16,6 +16,11 @@
          "displayName": "Example XML",
          "description": "Contains example XML Files",
          "path": "Samples~/XML"
+     },
+     {
+         "displayName": "More Example XML",
+         "description": "Contains example XML Files",
+         "path": "Samples~/XML2"
      }
  ],
  "keywords": [
