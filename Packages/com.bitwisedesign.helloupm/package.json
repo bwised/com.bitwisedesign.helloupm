@@ -1,0 +1,24 @@
+{
+  "name": "com.bitwisedesign.helloupm",
+  "version": "1.0.1",
+  "displayName": "Hello UPM",
+  "description": "This is an experimental learning package",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.0.2"
+ },
+ "keywords": [
+    "learning",
+    "experimental",
+    "bitwisedesign"
+  ],
+  "author": {
+    "name": "Ray",
+    "email": "rgraham@bitwisedesign.com",
+    "url": "https://www.bitwisedesign.com"
+  }
+}
