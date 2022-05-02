@@ -30,3 +30,7 @@ https://keepachangelog.com/en/1.0.0/
 ## [1.1.1] - 2022-05-02
 ### Changed
 - iOS plugin syntax bug
+
+## [1.1.2] - 2022-05-02
+### Changed
+- fixed editor script build issues for target builds
