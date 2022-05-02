@@ -34,3 +34,7 @@ https://keepachangelog.com/en/1.0.0/
 ## [1.1.2] - 2022-05-02
 ### Changed
 - fixed editor script build issues for target builds
+
+## [1.2.0] - 2022-05-02
+### Added
+- added some example XML files

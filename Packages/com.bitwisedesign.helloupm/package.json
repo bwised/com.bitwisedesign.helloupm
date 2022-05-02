@@ -1,6 +1,6 @@
 {
   "name": "com.bitwisedesign.helloupm",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "displayName": "Hello UPM",
   "description": "This is an experimental learning package",
   "unity": "2019.1",
@@ -11,6 +11,13 @@
   "dependencies": {
     "com.unity.nuget.newtonsoft-json": "3.0.2"
  },
+ "samples": [
+     {
+         "displayName": "Example XML",
+         "description": "Contains example XML Files",
+         "path": "Samples~/XML"
+     }
+ ],
  "keywords": [
     "learning",
     "experimental",
