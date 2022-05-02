@@ -7,10 +7,10 @@ https://keepachangelog.com/en/1.0.0/
 - first version
 
 ## [1.0.1] - 2022-05-02
-### Added
+### Changed
 - bumped version
 
 ## [1.0.2] - 2022-05-02
-### Added
+### Changed
 - bumped version
 - changed CHANGELOG format
