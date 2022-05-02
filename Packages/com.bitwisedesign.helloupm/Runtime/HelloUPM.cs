@@ -11,6 +11,7 @@ namespace BitwiseDesign
         void Awake()
         {
             Debug.Log(awakeText);
+            HelloUPMPlugin.Execute();
         }
     }
 }

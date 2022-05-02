@@ -22,3 +22,7 @@ https://keepachangelog.com/en/1.0.0/
 ## [1.0.4] - 2022-05-02
 ### Changed
 - bumped version
+
+## [1.1.0] - 2022-05-02
+### Added
+- added iOS plugin
