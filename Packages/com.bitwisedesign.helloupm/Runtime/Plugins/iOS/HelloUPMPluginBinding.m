@@ -1,5 +1,5 @@
 
 void _helloNative()
 {
-    NSLog("Hello Native!");
+    NSLog(@"Hello Native!");
 }
