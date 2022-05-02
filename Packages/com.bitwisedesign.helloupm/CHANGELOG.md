@@ -44,3 +44,7 @@ https://keepachangelog.com/en/1.0.0/
 - added some additional example XML files
 ### Changed
 - modified an XML sample file
+
+## [1.2.2] - 2022-05-02
+### Fixed
+- version number

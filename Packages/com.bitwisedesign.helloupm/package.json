@@ -1,6 +1,6 @@
 {
   "name": "com.bitwisedesign.helloupm",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "displayName": "Hello UPM",
   "description": "This is an experimental learning package",
   "unity": "2019.1",
