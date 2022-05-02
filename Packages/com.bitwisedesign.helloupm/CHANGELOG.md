@@ -6,11 +6,19 @@ https://keepachangelog.com/en/1.0.0/
 ### Added
 - first version
 
-## [1.0.1] - 2022-05-02
+## [1.0.1] - 2022-04-30
 ### Changed
 - bumped version
 
-## [1.0.2] - 2022-05-02
+## [1.0.3] - 2022-05-02
+### Changed
+- bumped version
+
+## [1.0.3] - 2022-05-02
 ### Changed
 - bumped version
 - changed CHANGELOG format
+
+## [1.0.4] - 2022-05-02
+### Changed
+- bumped version
