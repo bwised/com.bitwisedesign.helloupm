@@ -26,3 +26,7 @@ https://keepachangelog.com/en/1.0.0/
 ## [1.1.0] - 2022-05-02
 ### Added
 - added iOS plugin
+
+## [1.1.1] - 2022-05-02
+### Changed
+- iOS plugin syntax bug
